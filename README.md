@@ -22,6 +22,8 @@
 - sudo apt install python3-tk
 - pip3 install selenium
 - pip3 install requests
+- pip3 install lxml
+- sudo pip3 install bs4
 
 Для Windows: 
 1) Установить интерпретатор python3 (https://www.python.org/)
